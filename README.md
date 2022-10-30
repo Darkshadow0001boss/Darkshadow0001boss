@@ -4,6 +4,8 @@
 </div>
 <div>
   <img src="https://holopin.me/darkshadow" width="auto" height = 'auto'/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="auto" height = 'auto'/>
+  <img src="[https://holopin.me/darkshadow](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)" width="auto" height = 'auto'/>
 </div>
 
 <!--
