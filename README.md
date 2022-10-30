@@ -1,11 +1,11 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" />
+   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100"/>
 </div>
 <div>
   <img src="https://holopin.me/darkshadow" width="auto" height = 'auto'/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="auto" height = 'auto'/>
-  <img src="[https://holopin.me/darkshadow](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)" width="auto" height = 'auto'/>
 </div>
 
 <!--
